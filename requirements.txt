@@ -1,0 +1,15 @@
+# Hugging Face ZeroGPU supports Gradio SDK and PyTorch 2.8.0 through 2.13.0 at the time of this release.
+gradio[oauth,mcp]>=6.30.0,<7
+uvicorn>=0.14.0
+websockets>=10.4
+spaces>=0.51.3,<1
+huggingface_hub>=0.34.0,<2
+transformers>=4.51.0,<5
+accelerate>=1.0.0,<2
+torch>=2.8.0,<=2.13.0
+pypdf>=5.0.0
+openpyxl>=3.1.5
+Pillow>=10.0.0
+python-docx>=1.1.2
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1

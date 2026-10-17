@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.tmp
+eim_memory.json
+eim_memory.json.*
+eim_corrections.jsonl
+eim_corrections.jsonl.*
+eim_repairs.jsonl
+eim_repairs.jsonl.*
+eval_history.jsonl
+terminal_report.json
+solution.py
+solution_*.py
